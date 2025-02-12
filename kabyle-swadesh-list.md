@@ -1,12 +1,12 @@
 | Swadesh # | English Term | Kabyle Term(s) | Notes |
 |---------|------------|--------------|-----|
-| 1 | I | nekk |  |
-| 2 | you (sg.) | kečč, kemm | Gender distinctions |
-| 3 | he/she/it | netta |  |
+| 1 | I | nekk, nekki, nekkini |  |
+| 2 | you (sg.) | kečč, kečči, keččini, kemm, kemmi, kemmini | Gender distinctions |
+| 3 | he/she/it | netta, nettat |  |
 | 4 | we | nekni, nekkenti | Inclusive/exclusive forms |
 | 5 | you (pl.) | kunwi, kunnemti |  |
 | 6 | they | nutni, nutenti |  |
-| 7 | this | a, ta | Masculine/feminine forms |
+| 7 | this | wa, a, ta | Masculine/feminine forms |
 | 8 | that | wihin, tihin | Proximal vs. distal |
 | 9 | here | da | Context-dependent |
 | 10 | there | dihin |  |
@@ -23,15 +23,15 @@
 | 21 | other | niḍen |  |
 | 22 | one | yiwen |  |
 | 23 | two | sin |  |
-| 24 | three | kraḍ |  |
-| 25 | four | kuẓ |  |
-| 26 | five | semmus |  |
+| 24 | three | kraḍ, tlata |  |
+| 25 | four | kuẓ, rebɛa |  |
+| 26 | five | semmus, xemsa |  |
 | 27 | big | ameqqran |  |
-| 28 | long | aɣezfan |  |
+| 28 | long | aɣezzfan |  |
 | 29 | wide | wessiɛ, abaraw |  |
-| 30 | thick | azuran |  |
-| 31 | heavy | ẓẓay |  |
-| 32 | small | ameẓyan, amecṭuḥ |  |
+| 30 | thick | zur, azuran |  |
+| 31 | heavy | ẓẓay, aẓẓayan |  |
+| 32 | small | meẓẓi, ameẓyan, amecṭuḥ |  |
 | 33 | short | wezzil |  |
 | 34 | narrow | uḥṛis |  |
 | 35 | thin | rqiq |  |
