@@ -19,10 +19,10 @@
 | 17 | all | akk |  |
 | 18 | many | aṭas |  |
 | 19 | some | kra |  |
-| 20 | few | drus, cwiya |  |
+| 20 | few | drus, cwiya, kra |  |
 | 21 | other | niḍen |  |
-| 22 | one | yiwen |  |
-| 23 | two | sin |  |
+| 22 | one | yiwen, yiwet |  |
+| 23 | two | sin, snat |  |
 | 24 | three | kraḍ, tlata |  |
 | 25 | four | kuẓ, rebɛa |  |
 | 26 | five | semmus, xemsa |  |
