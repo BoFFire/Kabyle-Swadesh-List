@@ -119,7 +119,7 @@
 | 117 | to scratch | xebbec |  |
 | 118 | to dig | ɣez |  |
 | 119 | to swim | ɛum |  |
-| 120 | to fly | affeg | Literally "to go out" (contextual) |
+| 120 | to fly | affeg |  |
 | 121 | to walk | ddu |  |
 | 122 | to come | as |  |
 | 123 | to lie (down) | gen, ḍleq |  |
@@ -146,7 +146,7 @@
 | 144 | to flow | eɣder |  |
 | 145 | to freeze | sseɣres |  |
 | 146 | to swell | ceff |  |
-| 147 | to burn | sreɣ |  |
+| 147 | to burn | sreɣ, ṛeɣ, ṛeqq |  |
 | 148 | moon | aggur, ayyur |  |
 | 149 | star | itri |  |
 | 150 | water | aman |  |
@@ -154,12 +154,12 @@
 | 152 | river | asif |  |
 | 153 | lake | ugelmim |  |
 | 154 | sea | ilel, lebḥar |  |
-| 155 | salt | lmelḥ |  |
+| 155 | salt | lemleḥ |  |
 | 156 | stone | aẓru, aḍɣaɣ |  |
 | 157 | sand | ijdi |  |
 | 158 | dust | aɣɣebaṛ |  |
 | 159 | earth (soil) | akal |  |
-| 160 | cloud | asigna |  |
+| 160 | cloud | asigna, tagut |  |
 | 161 | fog | agu |  |
 | 162 | sky | igenni |  |
 | 163 | wind | aḍu, abeḥri |  |
@@ -190,7 +190,7 @@
 | 188 | dirty | yumes, yewsex |  |
 | 189 | straight | srid |  |
 | 190 | round | imdewweṛ |  |
-| 191 | sharp | yemsed mliḥ, qeṭṭiɛ | Literally "well-edged" |
+| 191 | sharp | yemsed mliḥ, qeṭṭiɛ |  |
 | 192 | dull | yeḥfa |  |
 | 193 | smooth | alewwaɣ |  |
 | 194 | wet | yebzeg |  |
@@ -198,9 +198,9 @@
 | 196 | correct | iseḥḥa, yelha | Right or valid |
 | 197 | near | sdat |  |
 | 198 | far | akin, bɛid |  |
-| 199 | right (direction) | ayeffus |  |
-| 200 | left (direction) | azelmaḍ |  |
-| 201 | at | ɣef, d | Prepositional use |
+| 199 | right (direction) | ayeffus, yeffus |  |
+| 200 | left (direction) | azelmaḍ, zelmaḍ |  |
+| 201 | at | ɣef, d |  |
 | 202 | in | deg |  |
 | 203 | with | akked |  |
 | 204 | and | d |  |
