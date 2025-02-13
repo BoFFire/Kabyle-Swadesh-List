@@ -53,7 +53,7 @@
 | 51 | tree | ttejra, aseklu |  |
 | 52 | forest | tiẓgi, lɣaba |  |
 | 53 | stick | aɛekkaz, aqeccaḍ |  |
-| 54 | fruit | yigumma, lfakya | lfakya is a loanword (Arabic?) |
+| 54 | fruit | yigumma, lfakya | lfakya is a loanword (Arabic) |
 | 55 | seed | amud |  |
 | 56 | leaf | ifer |  |
 | 57 | root | aẓaṛ |  |
@@ -84,7 +84,7 @@
 | 82 | knee | agecrir, tigecrirt |  |
 | 83 | hand | afus |  |
 | 84 | wing | afriw |  |
-| 85 | belly | aɛəbbuḍ |  |
+| 85 | belly | aɛebbuḍ |  |
 | 86 | guts | ijeɣdan |  |
 | 87 | neck | amegṛeḍ |  |
 | 88 | back | uɛrur |  |
