@@ -31,8 +31,8 @@
 | 29 | wide | wessiɛ, abaraw |  |
 | 30 | thick | zur, azuran |  |
 | 31 | heavy | ẓẓay, aẓẓayan |  |
-| 32 | small | meẓẓi, ameẓyan, amecṭuḥ |  |
-| 33 | short | wezzil |  |
+| 32 | small | meẓẓi, ameẓyan, amecṭuḥ, abesṭuḥ |  |
+| 33 | short | wezzil, awezlan |  |
 | 34 | narrow | uḥṛis |  |
 | 35 | thin | rqiq |  |
 | 36 | woman | tameṭṭut | Also means "wife" |
@@ -44,14 +44,14 @@
 | 42 | mother | yemma |  |
 | 43 | father | baba |  |
 | 44 | animal | aɣersiw, aywal |  |
-| 45 | fish | aslem, ahitiw |  |
+| 45 | fish | aslem, aḥitiw |  |
 | 46 | bird | afrux, aylal | aylal is dialectal |
 | 47 | dog | aqjun |  |
 | 48 | louse | tilkit |  |
 | 49 | snake | azrem |  |
-| 50 | worm | tawekka, tiwekkiwt |  |
-| 51 | tree | ttejra, useklu |  |
-| 52 | forest | teẓgi, lɣaba |  |
+| 50 | worm | tawekka, tawekkiwt |  |
+| 51 | tree | ttejra, aseklu |  |
+| 52 | forest | tiẓgi, lɣaba |  |
 | 53 | stick | aɛekkaz, aqeccaḍ |  |
 | 54 | fruit | yigumma, lfakya | lfakya is a loanword (Arabic?) |
 | 55 | seed | amud |  |
@@ -59,9 +59,9 @@
 | 57 | root | aẓaṛ |  |
 | 58 | bark (tree) | iclem |  |
 | 59 | flower | ajeǧǧig, tajeǧigt |  |
-| 60 | grass | tuga |  |
+| 60 | grass | tuga, ṛṛbiɛ |  |
 | 61 | rope | amrar |  |
-| 62 | skin | aɣlim |  |
+| 62 | skin | aglim, aksum |  |
 | 63 | meat | aksum |  |
 | 64 | blood | idammen | Plural form |
 | 65 | bone | iɣs |  |
